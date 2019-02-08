@@ -29,7 +29,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Electrical Engineering"
   institution = "Purdue University"
-  year = present
+  year = 2019
 
 [[education.courses]]
   course = "Master in Aerospace Engineering"

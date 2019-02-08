@@ -13,10 +13,10 @@ role = "Power System Software Engineer Intern"
 organizations = [ { name = "GEIRI North America", url = "https://www.geirina.net/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "optimization, distributed computation, multi-agent systems, control application in buildings and power system."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "yingyingxiao@geirina.net"
 
 # List (academic) interests or hobbies
 interests = [

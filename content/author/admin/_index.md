@@ -27,7 +27,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "PhD in Electrical and Computer Engineering"
   institution = "Stanford University"
   year = 2012
 

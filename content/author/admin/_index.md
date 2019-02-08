@@ -20,26 +20,26 @@ email = "yingyingxiao@geirina.net"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Optimization",
+  "distributed computation",
+  "network"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Electrical and Computer Engineering"
-  institution = "Stanford University"
+  course = "PhD in Electrical Engineering"
+  institution = "Purdue University"
+  year = present
+
+[[education.courses]]
+  course = "Master in Aerospace Engineering"
+  institution = "Harbin Institure of Technology, China"
+  year = 2014
+
+[[education.courses]]
+  course = "Bachelor in Aerospace Engineering"
+  institution = "Harbin Institute of Technology"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

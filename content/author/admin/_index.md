@@ -38,7 +38,7 @@ interests = [
 
 [[education.courses]]
   course = "Bachelor in Aerospace Engineering"
-  institution = "Harbin Institute of Technology"
+  institution = "Harbin Institute of Technology, China"
   year = 2012
 
 # Social/Academic Networking
